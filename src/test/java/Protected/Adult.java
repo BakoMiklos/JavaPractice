@@ -8,4 +8,6 @@ public class Adult {
         Pop.MetodaProtected();
         Pop.MetodaDefault();
     }
+
+
 }
